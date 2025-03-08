@@ -1,0 +1,56 @@
+/* 颜色变量 */
+$primary-color: #409EFF;
+$success-color: #67C23A;
+$warning-color: #E6A23C;
+$danger-color: #F56C6C;
+$info-color: #909399;
+
+$text-primary: #303133;
+$text-regular: #606266;
+$text-secondary: #909399;
+$text-placeholder: #C0C4CC;
+
+$border-color-base: #DCDFE6;
+$border-color-light: #E4E7ED;
+$border-color-lighter: #EBEEF5;
+$border-color-extra-light: #F2F6FC;
+
+$background-color-base: #F5F7FA;
+$background-color-light: #F0F2F5;
+
+/* 字体变量 */
+$font-size-extra-large: 20px;
+$font-size-large: 18px;
+$font-size-medium: 16px;
+$font-size-base: 14px;
+$font-size-small: 13px;
+$font-size-extra-small: 12px;
+
+/* 边框变量 */
+$border-radius-base: 4px;
+$border-radius-small: 2px;
+$border-radius-large: 8px;
+$border-radius-circle: 50%;
+
+/* 阴影变量 */
+$box-shadow-base: 0 2px 4px rgba(0, 0, 0, 0.12), 0 0 6px rgba(0, 0, 0, 0.04);
+$box-shadow-light: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
+$box-shadow-dark: 0 2px 16px 0 rgba(0, 0, 0, 0.2);
+
+/* 间距变量 */
+$spacing-mini: 4px;
+$spacing-small: 8px;
+$spacing-base: 12px;
+$spacing-medium: 16px;
+$spacing-large: 24px;
+$spacing-extra-large: 32px;
+
+/* 过渡变量 */
+$transition-base: all 0.3s ease-in-out;
+$transition-fast: all 0.2s ease-in-out;
+$transition-slow: all 0.5s ease-in-out;
+
+/* 布局相关 */
+$header-height: 60px;
+$sidebar-width: 220px;
+$sidebar-collapse-width: 64px; 
